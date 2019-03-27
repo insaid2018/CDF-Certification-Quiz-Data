@@ -4,16 +4,16 @@ To import data into python
 
 2. A new webpage will open with option 
 
-'Download'
+'Raw'
 
 
 or
 
-'Raw'
+'Download'
 
 in the top right region.
 
-3. Click on 'Download' or 'Raw' which ever is available.
+3. Click on 'Raw' or 'Download' which ever is available.
 
 4. A new webpage will open displaying the data.
 
