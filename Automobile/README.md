@@ -1,3 +1,5 @@
+'01-Data-Dictionary.csv' contains description of the data.
+
 To import data into python
 
 1. Click on 02-Data.csv
